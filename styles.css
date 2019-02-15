@@ -1,0 +1,28 @@
+#main {
+  text-align: center;
+  background-color: rgb(238, 238, 238);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#img-div {
+  background-color: white;
+
+  margin-top: 20px;
+  border: 1px solid white;
+}
+#img-caption {
+  margin: 15px;
+  margin-bot: 20px;
+}
+ul {
+  margin: 0 auto;
+  text-align: left;
+  width: 60%;
+}
+#quote {
+  font-style: italic;
+  width: 100%;
+  margin-top: 15px;
+}
+img {
+  width: 100%;
+}
